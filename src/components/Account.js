@@ -5,7 +5,7 @@ import MatchHistory from "./MatchHistory";
 export default function Account({name}) {
     const [account, setAccount] = useState([]);
     const [loading, setLoading] = useState(true);
-    const apiKey = "RGAPI-ae79901a-1aa8-4726-a6ff-ffff3edf3996"
+    const apiKey = "RGAPI-933adece-458b-429a-8d54-8bbb74a3329a"
 
     useEffect(() => {
         const getAccount = () => {

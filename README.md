@@ -8,7 +8,7 @@
 
  Enter the name of the player you wish to search for ( :information_source: works only for EUW :information_source: )
 
- :heavy_exclamation_mark: You need to get a valid API key to and write it everytime the constant ApiKey is initialized :heavy_exclamation_mark:
+ :heavy_exclamation_mark: You must obtain a valid API key and write it each time the ApiKey constant is initialised. :heavy_exclamation_mark:
 
  ## Demo
 
